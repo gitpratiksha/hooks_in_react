@@ -1,0 +1,29 @@
+.card__name{
+  color:white;
+  font-weight: bold;
+  font-size: larger;
+  text-align: center;
+
+
+}
+.card__total{
+    color:white;
+    font-weight: bold;
+    text-align: center;
+}
+.title{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+.card{
+    width: 500px;
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
